@@ -1,4 +1,4 @@
-writeup week 2 - tryhackme
+Espada - writeup week 2 - tryhackme
 
 Groupmate
 1. Muhammad Irfan Bin Zulkifli - 1211103094
